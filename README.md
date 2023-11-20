@@ -16,8 +16,6 @@ $ python pacman.py -p MinimaxAgent -a depth=2
 ```
 $ python pacman.py -p ExpectimaxAgent -a depth=2
 ```
-
-```
 - You can see the list of all options and their default values via:
 ```
 $ python pacman.py -h
