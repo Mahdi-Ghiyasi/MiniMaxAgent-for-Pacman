@@ -1,16 +1,15 @@
 # AI algorithms for Pacman
 
-## Intro
 [The Pacman Projects](https://inst.eecs.berkeley.edu/~cs188/fa23/projects/proj2/) by the [University of California, Berkeley](http://berkeley.edu/).
 
-![Animated gif pacman game](http://ai.berkeley.edu/images/pacman_game.gif)
+## Algorithms are implemented in the [multiAgents.py](multiAgents.py) file
 
+![Animated gif pacman game](http://ai.berkeley.edu/images/pacman_game.gif)
 
 ## For run Agents algorithms use this command in terminal
 - MinimaxAgent: an adversarial search agent implementing minimax algorithm
 ```
 $ python pacman.py -p MinimaxAgent -a depth=2
-
 ```
 - Expectimax: an adversarial search agent implementing expectimax algorithm
 ```
